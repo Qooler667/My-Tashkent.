@@ -1,0 +1,382 @@
+.size-1 {
+    position: relative;
+    height: 40px;
+}
+
+.flag {
+    margin: auto;
+}
+
+.size-2 {
+    height: 4px;
+}
+
+
+.otstup-1 {
+    margin: 15px;
+    text-align: center;
+
+}
+
+.blue {
+    background-color: #0099b5;
+}
+
+.red {
+    background-color: #ce1126;
+}
+
+.white {
+    background-color: white;
+
+}
+
+.green {
+    background-color: #1eb53a;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Segoe UI';
+    color: rgb(105, 3, 8);
+}
+
+.eich {
+    color: green
+}
+
+.img one {
+
+    max-width: 100%;
+    width: 950px;
+    height: 250px;
+    border: 5px solid rgb(6, 177, 177);
+}
+
+.centr {
+    font-family: Arial;
+    margin-top: 0;
+    line-height: 2;
+}
+
+.table_pravo {
+    float: right;
+}
+
+.table_levo {
+    float: left;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.two {
+    color: rgb(4, 0, 255);
+}
+
+/*  div p b, div p {color:red }*/
+.ssylka {
+    color: rgb(4, 0, 255);
+    text-decoration: underline;
+    text-decoration-color: maroon;
+    cursor: pointer;
+}
+
+table {
+    color: red
+}
+
+table {
+    color: black
+}
+
+table,
+td,
+th {
+    border-collapse: collapse;
+    border: 2px solid rgb(67, 174, 201);
+}
+
+.a {
+    background-color: #e6e7ec;
+}
+
+.b {
+    background-color: #ffd020;
+}
+
+.c {
+    background-color: #ffb000;
+}
+
+.d {
+    background-color: #ff9000;
+}
+
+.e {
+    background-color: #ff8000;
+}
+
+.f {
+    background-color: #ff7820;
+}
+
+.g {
+    background-color: #ff7040;
+}
+
+.h {
+    background-color: #ff6850;
+}
+
+.bb {
+    background-color: #c0ff80;
+}
+
+.cc {
+    background-color: #e0ff80;
+}
+
+.dd {
+    background-color: #fff060;
+}
+
+.ee {
+    background-color: #ffd020;
+}
+
+.ff {
+    background-color: #ffb000;
+}
+
+.gg {
+    background-color: #ff9000;
+}
+
+.hh {
+    background-color: #ff8000;
+}
+
+.bbb {
+    background-color: #a0ff80;
+}
+
+.ccc {
+    background-color: #e0ff80;
+}
+
+.ddd {
+    background-color: #fff060;
+}
+
+.eee {
+    background-color: #ffd020;
+}
+
+.fff {
+    background-color: #ffb000;
+}
+
+.ba {
+    background-color: #80ff80;
+}
+
+.bc {
+    background-color: #c0ff80;
+}
+
+.bd {
+    background-color: #e0ff80;
+}
+
+.be {
+    background-color: #fff060;
+}
+
+.bf {
+    background-color: #ffe040;
+}
+
+.bg {
+    background-color: #ffd020;
+}
+
+.bh {
+    background-color: #a0ff80;
+}
+
+.bi {
+    background-color: #e0ff80;
+}
+
+.ca {
+    background-color: #00b0ff;
+}
+
+.cb {
+    background-color: #40e0ff;
+}
+
+.cc {
+    background-color: #80ffc0;
+}
+
+.cd {
+    background-color: #80ffa0;
+}
+
+.ce {
+    background-color: #a0ff80;
+}
+
+.cf {
+    background-color: #e0ff80;
+}
+
+.cg {
+    background-color: #c0ff80;
+}
+
+.ch {
+    background-color: #80ff80;
+}
+
+.ci {
+    background-color: #80ffff;
+}
+
+.cj {
+    background-color: #20d0ff;
+}
+
+.ck {
+    background-color: #00a0ff;
+}
+
+.da {
+    background-color: #a0e0ff;
+}
+
+.db {
+    background-color: #80c0ff;
+}
+
+.dc {
+    background-color: #90d0ff;
+}
+
+.dd {
+    background-color: #b0f0ff;
+}
+
+.de {
+    background-color: #e0ffff;
+}
+
+.df {
+    background-color: #f0ffff;
+}
+
+.dg {
+    background-color: #d0ffff;
+}
+
+.dh {
+    background-color: #B4C8FF;
+    ;
+}
+
+.vopros {
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}
+
+.temperatu {
+    font-size: large;
+    font-weight: bold;
+}
+
+.teplo {
+    color: rgb(233, 7, 7)
+}
+
+.veter {
+    color: rgb(21, 21, 204)
+}
+
+.voda {
+    color: #080261
+}
+
+.img_two {
+    float: left;
+    margin-right: 10px;
+}
+
+.img_one {
+    float: right;
+    margin-left: 10px;
+}
+
+
+.example {
+    width: 100%;
+    background-color: red;
+}
+
+.example-1 {
+    height: 200px;
+    width: 100%;
+    background: blue;
+    margin-bottom: 20px;
+}
+
+.example-2 {
+    height: 200px;
+    width: 100%;
+    background: #1eb53a;
+    margin-top: 20px;
+}
+
+/*скрытое поле для отзывов*/
+.otzyv {
+    display: none;
+}
+
+/*открытое поле по кнопке да */
+#positive:checked~.otzyv {
+    display: block;
+}
+
+.spisok,
+.vy,
+.vpechat {
+    line-height: 50px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+figure {
+    border: 1px solid #235b92;
+    padding: 10px;
+}
+
+figcaption {
+    text-align: center;
+    background-color: #bfcfe0;
+}
+
+#textar {
+    background-color: #80c0ff;
+}
